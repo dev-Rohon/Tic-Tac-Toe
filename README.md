@@ -20,14 +20,14 @@ A simple Tic Tac Toe game built to practice programming fundamentals, logic buil
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+1. Copy this link:
+   ```
+   https://dev-rohon.github.io/Tic-Tac-Toe/
    ```
 
-2. Open the project folder.
+2. Open chrome and paste the url.
 
-3. Run the `index.html` file in your browser.
+3. enjoy the game.
 
 ## 📂 Project Structure
 
